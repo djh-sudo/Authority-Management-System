@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start1.png</file>
+        <file>cmd.png</file>
+        <file>gui.png</file>
+        <file>log.png</file>
+        <file>p1.png</file>
+        <file>p2.png</file>
+        <file>p3.png</file>
+        <file>p4.png</file>
+        <file>p5.png</file>
+        <file>p6.png</file>
+        <file>p7.png</file>
+        <file>p8.png</file>
+        <file>p9.png</file>
+        <file>p10.png</file>
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>title.png</file>
+        <file>root.png</file>
+        <file>eye.png</file>
+        <file>pass.png</file>
+    </qresource>
+</RCC>
