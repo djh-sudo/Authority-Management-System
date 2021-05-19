@@ -1,7 +1,0 @@
-grant auth -read of -obj1 to -djh with option
-grant auth -ins of -obj1 to -djh with option
-grant auth -read of -obj2 to -hac
-grant auth -del of -obj5 to -ppt
-grant auth -upd of -obj1 to -djh with option
-grant auth -read of -obj1 to -ppt
-grant auth -ins of -obj3 to -hac
